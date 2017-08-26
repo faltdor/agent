@@ -45,7 +45,7 @@ p{
 	margin:auto;
 }
 
-.home {
+.home , .services {
 	margin-top: 50px;
 	text-align: center;
 }
@@ -94,4 +94,14 @@ p{
 	font-weight: bold;
 	color: #fff;
 	border-bottom: 2px solid #fff;
+}
+
+.column i {
+	float: left;
+	padding-right: 20px;
+	color: #004e70;
+}
+
+.column h4 {
+	padding-bottom: 20px;
 }
