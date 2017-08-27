@@ -1,0 +1,106 @@
+.table{
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	padding-top: 50px;
+}
+
+.tablex4 {
+	float: left;
+	width: 25%;
+	margin-top: 20px;
+}
+
+.table-popular{	
+	margin-top: 10px;
+
+}
+
+.table-price{
+	border: 1px solid #5d6552;
+	background: #30353c;
+}
+.table-price:hover{
+	border: 5px solid #85c34a;
+	transition: all 0.4s;
+}
+.icon-price {
+	color: #85c34a;
+	padding-top: 20px;
+	font-size: 3em;
+	padding-bottom: 10px;
+}
+.table-price h4 {
+	color: #fff;
+}
+
+.price-1 {
+	color: #85c34a;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.dollar {
+	font-size: 20px;
+	vertical-align: super;
+}
+
+.monthly {
+	color: #999;
+	font-size: 10px;
+	vertical-align: sub;
+}
+.list-prices {
+	list-style: none;
+	padding: 20px 0;
+	color: #81867D;
+	padding-bottom: 50px;
+}
+.list-item {
+	padding: 0.25em;
+	font-size: 15px;
+}
+
+.container-buy{
+	margin-bottom: 25px;
+}
+.button-buy{
+	background-color: #85c34a;
+	text-decoration: none;
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: bold;
+	padding: 10px 70px;
+	letter-spacing: 1px;
+	width: 90%
+}
+.button-buy:hover{
+	background-color: #777;
+	
+}
+
+.item-popular {
+	background-color: #fff;
+	box-shadow: 0 0 8px rgba(0,0,0,0.9);
+	z-index: 500;
+}
+
+.item-popular h4{
+	color: #30353c;
+	font-size: 30px;
+}
+
+.item-popular .icon-price{
+	font-size: 4em;
+}
+.item-popular .button-buy{
+	background: #30353c;
+}
+
+.item-popular .button-buy:hover{
+	background: #777;
+}
+.fa-star {
+	color: #30353c;
+}
+
