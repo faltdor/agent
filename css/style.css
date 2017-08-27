@@ -1,7 +1,9 @@
 *{
 	margin: 0;
 	padding: 0;
+	box-sizing: border-box;
 }
+
 header {
 	width: 100%;
 	background: rgba(0,79,112,0.8);
@@ -62,5 +64,10 @@ nav ul li a:hover{
 
 @font-face {
 	font-family: Raleway-Regular;
-	src:url(fonts/Raleway/Raleway-Regular.ttf);
+	src:url(../fonts/Raleway/Raleway-Regular.ttf);
 }
+
+
+
+
+

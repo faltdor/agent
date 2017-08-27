@@ -1,0 +1,222 @@
+@media only screen and (max-width:480px){
+.social-nav{
+	display: none;
+}
+header{
+	height: 55px;
+}
+.column , .tablex4{
+	width: 100%;
+}
+
+
+h2{
+	font-size: 20px;	
+}
+
+h3{
+	
+	font-size: 14px;
+
+}
+h4{
+	font-size: 12px;
+}
+h5{	
+	font-size: 10px;
+}
+
+
+
+
+
+.container{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+.logo {	
+	height: 25px;
+	text-align: left;	
+}
+.logo p a{
+	width: 100%;
+	font-size: 20px;
+	top: 5%;
+}
+nav{
+	width: 100%;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+nav ul li a{
+	font-size: 7px;
+}
+.slideInUp{
+	display: none;
+}
+
+.container-row{
+	top: 100px;	
+}
+
+.title-slider h1 {	
+	font-size: 20px;
+}
+
+.title-slider  p {	
+	font-size: 20px;
+	padding-top: 10px;
+}
+
+
+.form-contact{
+	width: 85%;
+	margin: 0;
+}
+.formu-ti{
+	width: 100%;
+}
+.box-input,.box-textarea{
+	width: 100%;
+}
+.caja-2{
+	width: 100%;
+}
+.datos{
+	width: 100%;
+}
+.justify{
+	width: 100%;
+}
+
+.banner-1 h3 , .banner-2 h3 {
+	
+	font-size: 20px;
+}
+
+
+}
+@media only screen and (min-width:481px) and (max-width:768px) {
+
+	.social-nav{
+		display: none;
+	}
+	header{
+		height: 55px;
+	}
+	.column , .tablex4{
+		width: 50%;
+	}
+
+
+	h2{
+		font-size: 20px;	
+	}
+
+	h3{
+		
+		font-size: 14px;
+
+	}
+	h4{
+		font-size: 12px;
+	}
+	h5{	
+		font-size: 10px;
+	}
+
+
+
+
+
+	.container{
+		width: 100%;
+		margin: 0;
+		padding: 0;
+	}
+	header  {		
+		height: 100px;		
+		
+	}
+
+	.logo {
+		width: 100%;
+		height: 35px;
+		text-align: center;
+		padding: 0;
+		margin: 0;
+		font-size: 
+	}
+	.logo p a{
+		width: 100%;
+		font-size: 30px;
+		margin: 0;
+	}
+	nav{
+		width: 100%;
+		text-align: center;
+		padding: 0;
+		margin: 0;
+	}
+	nav ul li a{
+		font-size: 7px;
+	}
+	.slideInUp{
+		display: fixed;
+	}
+
+	.container-row{
+		top: 150px;	
+	}
+
+	.title-slider h1 {	
+		font-size: 20px;
+	}
+
+	.title-slider  p {		
+		font-size: 14px;
+		padding-top: 10px;
+	}
+
+	.form-contact{
+		width: 85%;
+		margin: 0;
+	}
+	.formu-ti{
+		width: 100%;
+	}
+	.box-input,.box-textarea{
+		width: 100%;
+	}
+	.caja-2{
+		width: 100%;
+	}
+	.datos{
+		width: 100%;
+	}
+	.justify{
+		width: 100%;
+	}
+
+	.banner-1 h3 , .banner-2 h3 {
+		
+		font-size: 20px;
+	}
+	
+}
+
+
+@media only screen and (min-width:768px) and (max-width:1020px) {
+	
+	.title-slider h1 {	
+		font-size: 36px;
+	}
+
+	.title-slider  p {		
+		font-size: 20px;
+		padding-top: 30px;
+	}
+
+}
