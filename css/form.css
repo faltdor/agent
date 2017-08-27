@@ -1,0 +1,33 @@
+.col-2{
+	margin-top: 50px;
+}
+
+.form-contact {
+	float: left;
+	width: 50%;
+	margin: auto;
+	color: #999;
+}
+
+.box-input {
+	width: 250px;
+	height: 40px;
+	margin: 2px;
+	padding: 10px;
+	font-size: 14px;
+}
+
+.box-textarea {
+	width: 556px;
+	height: 100px;
+	padding : 10px;	
+	font-size: 14px;
+	box-sizing: border-box;
+}
+
+.justify {
+	box-sizing: border-box;
+
+	margin: 0;
+}
+
